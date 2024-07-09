@@ -1,6 +1,6 @@
 import { getStore } from "@/libs/api-libs";
 import Image from "next/image";
-import CardProduct from "./components/CardProduct";
+import CardProduct from "../components/CardProduct";
 
 export default async function Page() {
 
